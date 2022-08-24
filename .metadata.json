@@ -1,5 +1,8 @@
 [
   {
     "package": "ILoReg"
+  },
+  {
+    "package": "RolDE"
   }
 ]
