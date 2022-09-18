@@ -8,8 +8,3 @@
 	url = https://github.com/elolab/iloreg
 	shallow = true
 	registered = true
-[submodule "RolDE"]
-	path = RolDE
-	url = https://github.com/elolab/rolde
-	shallow = true
-	registered = true
